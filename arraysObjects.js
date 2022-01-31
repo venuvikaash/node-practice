@@ -1,4 +1,4 @@
-//calling objects and arrays 
+//calling objects and arrays
 
 const arrayItems = ["items1", "items2"]; //array
 
@@ -7,5 +7,5 @@ const objectItems = {
   name: "venu",
 };
 
-module.exports = {arrayItems};
-module.exports.objectName = {objectItems};
+module.exports = { arrayItems };
+module.exports.objectName = { objectItems };
